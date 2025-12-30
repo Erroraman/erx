@@ -7,7 +7,7 @@ import string
 from colorama import Fore, Style, init
 init(autoreset=True)
 import os
-print(f"Created by **>>BayLak<<** 2025/01/22")
+print(f"Created by **>>ErrorXAmn<<** 2025/01/22")
 def is_valid_country_code(phone_number):
     pattern = r"^\+\d{1,4}\d{10,12}$"  # Modified to allow 10 to 12 digits
     return re.match(pattern, phone_number) is not None
