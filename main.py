@@ -22,7 +22,7 @@ def run_bash_script():
 
 def show_about():
     print(Fore.CYAN + "\nAbout Page:")
-    print(Fore.YELLOW + "Made By BayLak 2025/01/22")
+    print(Fore.YELLOW + "Made By ErrorXAmn 2025/01/22")
     print(Fore.GREEN + "Ban tool v1.1f-request-python3")
     print(Fore.RED + """
          _____
@@ -58,7 +58,7 @@ def main():
 ⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀{Fore.RED}⠀Ban tool {Fore.GREEN}⠀
 ⠀⢀⣾⣿⣿⣿⣿⡿⠟⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
 ⠀⣾⣿⣿⣿⣿⣿⣧⠀⠀⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀
-⢠⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄{Fore.BLUE}[MyTelgram : @Baylaks]{Fore.GREEN}⠀
+⢠⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄{Fore.BLUE}[MyTelgram : @ErrorXHub]{Fore.GREEN}⠀
 ⢸⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
 ⠘⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠈⠻⢿⣿⠟⠉⠛⠿⣿⣿⣿⣿⣿⠃
 ⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⡿⠀
